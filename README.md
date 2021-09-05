@@ -1,0 +1,2 @@
+# ethic
+I am learner
